@@ -1,0 +1,135 @@
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\appsettings.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\AlzBuddy.exe
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\AlzBuddy.deps.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\AlzBuddy.runtimeconfig.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\AlzBuddy.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\AlzBuddy.pdb
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.AssemblyReference.cache
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.AssemblyInfoInputs.cache
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.AssemblyInfo.cs
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.CoreCompileInputs.cache
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.AlzBuddy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.build.AlzBuddy.props
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AlzBuddy.props
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AlzBuddy.props
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\scopedcss\bundle\AlzBuddy.styles.css
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.CopyComplete
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\refint\AlzBuddy.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.pdb
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\AlzBuddy.genruntimeconfig.cache
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\obj\Debug\net6.0\ref\AlzBuddy.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibala\Desktop\4th year-1st semester\Computer Networks\Proiect\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.AssemblyReference.cache
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.AssemblyInfoInputs.cache
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.AssemblyInfo.cs
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.CoreCompileInputs.cache
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\refint\AlzBuddy.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.pdb
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\appsettings.Development.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\appsettings.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\AlzBuddy.exe
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\AlzBuddy.deps.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\AlzBuddy.runtimeconfig.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\AlzBuddy.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\AlzBuddy.pdb
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Humanizer.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.AlzBuddy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.build.AlzBuddy.props
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AlzBuddy.props
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AlzBuddy.props
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\scopedcss\bundle\AlzBuddy.styles.css
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.csproj.CopyComplete
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\AlzBuddy.genruntimeconfig.cache
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\obj\Debug\net6.0\ref\AlzBuddy.dll
+D:\Facultate\An IV\Sem I\CN\AlzBuddy\bin\Debug\net6.0\Newtonsoft.Json.dll
